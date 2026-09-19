@@ -1,8 +1,8 @@
 /*
 *Name : Akshat Mittal
 *Sap ID : 590038005
-*Day : 1
-*Date : 10/08/26
+*Day : 01
+*Date : 20/09/26
 *
 *PROBLEM STATEMENT:
 *Write a program to input two numbers and display their sum.
